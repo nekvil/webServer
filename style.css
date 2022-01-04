@@ -1,0 +1,38 @@
+
+h1 {
+    font-size: xxx-large;
+    text-align: center;
+    margin-top: 15vh;
+    margin-bottom: 15vh
+}
+body {
+    font-family: Arial !important;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+div {
+    margin-bottom: 10vh;
+    display: flex;
+    justify-content: center;
+}
+img.forJPG {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+ul {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+a {
+    font-size: x-large;
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
